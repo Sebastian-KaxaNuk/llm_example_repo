@@ -1,13 +1,13 @@
 # LLMS_Example
-Welcome to a basic openai connection example
+Bienvenido a un ejemplo básico de conexión a la api de openai
 
 ## File Structure
 
-Maintaining an organized folder structure is crucial to the code efficiency. Organize your files as follows:
+Mantener una estructura de carpetas organizada es crucial para la eficiencia del código. Organice los archivos de la siguiente manera:
 
 
 - **`Config` Folder**: api keys.
-    - `.env` file, with api keys.
+    - `.env` archivo con las keys
 
 
 ## Configuración del Entorno y Dependencias
@@ -51,8 +51,9 @@ segundo dropdown, seleccionamos el ambiente, buscamos spyder, lo instalamos y lo
 
 Se requieren las api keys de FMP y OpenAI, les dejamos los links. Estas mismas, las colocaremos en el archivo .env en la carpeta Config
 
-[sitio web oficial](https://site.financialmodelingprep.com/developer/docs)
-[sitio web oficial](https://platform.openai.com/settings/organization/api-keys)
+**FMP API**: [sitio web oficial](https://site.financialmodelingprep.com/developer/docs)
+
+**OpenAI API**: [sitio web oficial](https://platform.openai.com/settings/organization/api-keys)
 
 
 
