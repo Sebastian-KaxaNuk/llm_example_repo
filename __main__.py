@@ -1,5 +1,5 @@
 #Personal Modules
-from src.llms_example import fmp_functions as fmp
+from src.llms_example_repo import fmp_functions as fmp
 
 #Libraries
 from dotenv import load_dotenv
