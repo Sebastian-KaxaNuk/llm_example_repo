@@ -24,7 +24,7 @@ Para configurar tu entorno y asegurarte de que todas las dependencias necesarias
 
 4. **Activar el Environment**: Activa el environment recién creado con el comando:
    ```bash
-   conda activate alexa_auto
+   conda activate llm_example
    
 5. **Cambiar al Directorio del Repositorio**: Navega al directorio donde está clonado el repositorio utilizando el comando cd. Por ejemplo:    
     ```bash
