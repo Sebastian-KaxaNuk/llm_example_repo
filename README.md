@@ -44,3 +44,18 @@ Para configurar tu entorno y asegurarte de que todas las dependencias necesarias
 
 8. **Abrir Anaconda Navigator**: Por ultimo, en anaconda navigator, nos dirigimos a la barra de navegacion superior, seleccionamos el
 segundo dropdown, seleccionamos el ambiente, buscamos spyder, lo instalamos y lo abrimos.
+
+9. **Correr __main__.py**: Corremos el código .py llamado __main__. 
+
+## Consideraciones importantes
+
+Se requieren las api keys de FMP y OpenAI, les dejamos los links. Estas mismas, las colocaremos en el archivo .env en la carpeta Config
+
+[sitio web oficial](https://site.financialmodelingprep.com/developer/docs)
+[sitio web oficial](https://platform.openai.com/settings/organization/api-keys)
+
+
+
+
+
+
