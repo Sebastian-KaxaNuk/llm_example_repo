@@ -68,6 +68,7 @@ llm = ChatOpenAI(
     max_tokens=1200,
     )
 
+#Un mini ejemplo
 response = openai.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": "Hola"}],
@@ -117,7 +118,7 @@ logger.info(summary)
 
 #%%
 
-
+#otro ejemplo
 response = openai.chat.completions.create(
         model="gpt-4o-mini",
         messages=[{"role": "user", "content": "Hola, dame un chiste"}],
